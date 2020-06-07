@@ -14,7 +14,7 @@ WIN_COMBINATIONS = [
   def initialize
     @board = Array.new(9, " ")
     
-  def display_board
+  def display_board(output)
   end
   
 end
